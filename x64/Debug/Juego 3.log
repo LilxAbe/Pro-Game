@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(158,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(166,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(176,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(964,13): warning C4101: 'i': variable local sin referencia
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(1292,24): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(1580,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(2045,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(2047,35): warning C4101: 'numAux4': variable local sin referencia
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(2047,44): warning C4101: 'numAux5': variable local sin referencia
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(2812,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(2998,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(3155,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(3189,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(3223,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(3233,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(3610,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(3785,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\larr_\source\repos\Juego 3\Source.cpp(3932,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Juego 3.vcxproj -> C:\Users\larr_\source\repos\Juego 3\x64\Debug\Juego 3.exe
